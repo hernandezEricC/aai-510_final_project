@@ -48,7 +48,7 @@ The agent combines structured business information, such as ratings and review c
 
 The final solution demonstrates how domain-specific AI agents can support data-driven decision making by distilling large volumes of unstructured customer feedback into digestible insights. While the project was developed using a focused subset of San Diego Italian restaurant data to maintain efficient vector search performance, the architecture can be extended to additional business categories and larger datasets in future implementations.
 
-The project is comprised of two notebooks, one for the data pipeline (data_pipeline.ipynb) and one for the agent definition and evaluation (tool_definitions.ipynb).
+The project is comprised of two notebooks, one for the data pipeline (01_data_pipeline.ipynb) and one for the agent definition and evaluation (02_agent.ipynb).
 
 ## Acknowledgements
 The authors want to acknowledge the original authors of the dataset, which can be found at: https://mcauleylab.ucsd.edu:8443/public_datasets/gdrive/googlelocal/.
